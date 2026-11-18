@@ -15,7 +15,6 @@ func main() {
 		fmt.Scan(&nominal)
 		total += nominal
 	}
-	fmt.Println("Keluarrrr")
+	fmt.Println("Kelua")
 	fmt.Println("total data ", total)
-
 }
